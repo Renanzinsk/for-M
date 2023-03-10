@@ -1,0 +1,94 @@
+ul {
+    list-style: none;
+}
+
+#logo {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    font-size: 0.7rem;
+    padding: 0 1rem;
+    max-width: 1000px;
+    margin: 0 auto;
+    font-size: 40px;
+}
+#bl {
+    background-color: #272626;
+}
+
+#bl2 {
+    background-color: #272626;
+}
+
+#introducao {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    max-width: 1000px;
+    margin: 0 auto;
+    font-size: 20px; 
+    top: 1px;
+    padding-right: 8.5%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    transition: 0.4s;
+}
+
+#intro {
+    background-color: #272626;
+    margin: 1rem;
+    justify-content: space-around;
+}
+#corpo {
+    background-image: url("img/rememe.avif");
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    opacity: 60%;
+    padding: 22px;
+    font-size: 2rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#in2 {
+    padding-top: 10%;
+}
+
+#bl3 {
+    background-color: aliceblue;
+}
+
+#supra1 {
+    display: flex;
+    justify-content: center;
+    background-color: aliceblue;
+    padding-top: 10%;
+}
+
+#supra {
+    border: 8px solid #000000;
+    border-radius: 10px;
+}
+
+#contato {
+    text-align: center;
+}
+
+#li {
+    justify-content: space-around;
+    display: flex;
+}
+
+#final {
+    background-image: linear-gradient(45deg,rgb(0, 0, 0),#272626,rgb(0, 0, 0));
+    background-size: cover;
+    text-align: center;
+}
+
+#letr {
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#colo {
+    color: aliceblue;
+}
